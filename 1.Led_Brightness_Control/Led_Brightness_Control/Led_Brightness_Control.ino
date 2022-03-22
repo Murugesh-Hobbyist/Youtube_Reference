@@ -1,4 +1,4 @@
-int led = 11;
+int led = 11;//assaign
 int brightness = 0;
 int fadeAmount = 2;
 
