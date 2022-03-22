@@ -13,14 +13,13 @@ void setup()
 
 void loop() 
 { 
-  if (Sensor_Pin_Value.decode(&results)) // Returns 0 if no data ready, 1 if data ready.
+  if (Sensor_Pin_Value.decode(&results))
      {
-      HEX results.value
-      Serial.println(results.value, HEX);
+     Serial.println(results.value, HEX);
      
-     if (results.value == 0x1DEA08F7) 
+     if (results.value == 0x4F58748B) 
         {digitalWrite(8, HIGH);}
-     if (results.value == 0x1DEA28D7) 
+     if (results.value == 0x4F587887) 
         {digitalWrite(8, LOW);}
        
      Sensor_Pin_Value.resume();} //Restart the ISR state machine and Receive the next value 
