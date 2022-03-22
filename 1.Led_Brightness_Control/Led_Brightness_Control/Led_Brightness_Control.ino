@@ -1,5 +1,5 @@
 int led = 11;//assaign
-int brightness = 0;
+int brightness = 0;//intialize
 int fadeAmount = 2;
 
 void setup() 
