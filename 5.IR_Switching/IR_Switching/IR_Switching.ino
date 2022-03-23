@@ -24,3 +24,9 @@ void loop()
        
      Sensor_Pin_Value.resume();} //Restart the ISR state machine and Receive the next value 
 }
+
+
+Why is 0x used for hex?
+The prefix 0x is used in code to indicate that the number is being written in hex. But what is 'B' doing in there? 
+The hexadecimal format has a base of 16, which means that each digit can represent up to 16 different values. Unfortunately, 
+we run out of numerical digits after '9,' so we start using letters.
