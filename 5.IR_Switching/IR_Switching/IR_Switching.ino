@@ -22,5 +22,6 @@ void loop()
      if (results.value == 0x4F587887) 
         {digitalWrite(8, LOW);}
        
-     Sensor_Pin_Value.resume();} //Restart the ISR state machine and Receive the next value 
-}
+     Sensor_Pin_Value.resume();
+     }
+} 
