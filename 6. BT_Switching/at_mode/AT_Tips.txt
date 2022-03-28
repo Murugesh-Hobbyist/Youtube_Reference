@@ -1,0 +1,17 @@
+set the baud rate & output mode as 9600 & "Both NL & CR"
+
+set Bluetooth Module name by --> AT+NAME=xxxxx and press Send. (no quotes req)
+set Bluetooth Module pass by --> AT+PSWD="xxxx" and press Send. (quotes required)
+
+AT+RMAAD         --> (To clear any paired devices)
+AT+UART=9600,0,0 --> (To fix the baud rate at 9600)
+
+SLAVE
+AT+ROLE=0  --> (To set it as slave)
+AT+ADDR    --> (To get the address of this HC-05)
+
+MASTER
+AT+ROLE=1  --> (To set it as master)
+AT+CMODE=0 --> (To connect the module to the specified Bluetooth address)
+AT+BIND=xxxx,xx,xxxxxx --> (type with your respective address to the slave)
+
