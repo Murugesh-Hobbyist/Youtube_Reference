@@ -1,0 +1,4 @@
+https://lastminuteengineers.com/i2c-lcd-arduino-tutorial/
+
+custom lcd figures
+https://maxpromer.github.io/LCD-Character-Creator/

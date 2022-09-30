@@ -1,0 +1,30 @@
+C:\Users\Murugesh>\Users\Murugesh\Downloads\FontConvert\fontconvert
+
+
+
+open c/windows/fonts 
+select one
+properties
+
+COOPBL 
+MTCORSVA
+SHOWG
+impact
+
+cmd
+cd C:\Users\Murugesh\Documents\GitHub\Personal\Reference\OLED\FontConvert
+fontconvert
+fontconvert C:\Windows\Fonts\impact.ttf 5 > impact.h
+
+//5 -> Font Size
+
+stored in C:\Users\Murugesh\Documents\GitHub\Personal\Reference\OLED\FontConvert
+copy to Required ino file location
+eg -> C:\Users\Murugesh\Documents\GitHub\Personal\IOT\Battery_Doc
+
+replace edit
+
+
+and call in oled file
+ 
+

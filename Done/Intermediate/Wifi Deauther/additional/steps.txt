@@ -1,0 +1,6 @@
+open flasher
+config->gear->select bin file
+select com port
+Flash
+
+video -> NodeMCU Standalone Deauther - Bin file Method (With OLED Display and RGB LED..)

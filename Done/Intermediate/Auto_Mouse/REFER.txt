@@ -1,0 +1,3 @@
+https://www.instructables.com/Digispark-Attiny-85-With-Arduino-IDE/
+
+https://startingelectronics.org/tutorials/arduino/digispark/digispark-windows-setup/

@@ -1,0 +1,21 @@
+Open Firebase -> Console -> New Project
+Realtime DB
+FIREBASE_HOST "inject-38929-default-rtdb.firebaseio.com"
+
+Register the Firebase Host below 
+https://www.grc.com/fingerprints.htm
+Add the fingerprints to 
+C:\Users\Murugesh\Documents\Arduino\libraries\firebase-arduino-master\src\FirebaseHttpClient.h
+
+FIREBASE_AUTH "NtERcHXnmeoq5EwJK9ht3rSrW1pOE9bW6wuYlYzT"
+Get the Auth Key in 
+Settings -> Project Settings -> Service Accounts -> DB Secrets
+
+
+Basic LED control -> https://how2electronics.com/led-control-google-firebase-esp8266/
+about firebase -> https://www.electroniclinic.com/esp32-firebase-tutorial-send-sensor-data-to-google-firebase-database/
+
+
+
+
+
