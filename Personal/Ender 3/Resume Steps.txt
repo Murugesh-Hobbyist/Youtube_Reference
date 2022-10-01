@@ -1,7 +1,0 @@
-Measure Height
-alter code -> Find Z36.1 -> erase above line till autohome line
-open Pronterface -> G28 XY (XY Homing) ; M211 S0 (EndStops Off)
-Knob contolled move to last layer top -> G92 Z36.1
-Print the modified code
-
-video -> HOW TO_ Resume a failed 3D print
