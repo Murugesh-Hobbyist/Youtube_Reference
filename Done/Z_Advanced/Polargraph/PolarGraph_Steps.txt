@@ -1,0 +1,45 @@
+
+
+buy RepRap 1.4 smart controller board
+
+
+open folder 
+H:\Polargraph\Marlin-polargraph-polargraph-bugfix-2.0.x-huge
+in Visual Studio Code
+compile it for Arduino Mega 2560
+
+follow the wiring in pictures
+
+
+download below apps from getintopc.com for sketch modifications
+InPixio_Photo_Editor
+Picture_Colorizer_Pro
+
+
+install 
+Makelangelo-7.32 -> slicing software for PolarGraph
+https://www.marginallyclever.com/products/makelangelo-software/
+
+
+join the Discord/Github for more help on development
+https://www.marginallyclever.com/channels/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

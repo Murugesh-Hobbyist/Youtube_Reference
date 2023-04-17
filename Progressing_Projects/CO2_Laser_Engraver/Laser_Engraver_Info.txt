@@ -1,0 +1,56 @@
+
+complete basics playlist
+RAMPS 1.4 - Basics
+https://www.youtube.com/watch?v=85nj3WDfUs8&list=PLP-VDZmS6bFplv5ttZb9m_zz6L7FXA4w4&index=1
+
+
+follow the video
+RAMPS 1 4 + MARLIN 2 0 + LASER = LIGHTBURN
+https://www.youtube.com/watch?v=c0Kk8ucRWUM
+
+
+screenshot and language conversion
+https://translate.yandex.com/ocr
+
+
+download release-2.0.7.2 from
+https://github.com/MarlinFirmware/Configurations/branches/stale
+
+config file - not req
+https://github.com/MarlinFirmware/Configurations/tree/release-2.0.7.2
+
+
+RAMPS schematics
+https://osoyoo.com/2016/07/03/reprap-3d-printer-circuit-connection-graph/
+
+
+lightburn laser slicer
+https://lightburnsoftware.com/
+
+
+
+
+#define LCD_FEEDBACK_FREQUENCY_DURATION_MS 2
+#define LCD_FEEDBACK_FREQUENCY_HZ 5000
+
+
+#define LCD_FEEDBACK_FREQUENCY_DURATION_MS 100
+#define LCD_FEEDBACK_FREQUENCY_HZ 1000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

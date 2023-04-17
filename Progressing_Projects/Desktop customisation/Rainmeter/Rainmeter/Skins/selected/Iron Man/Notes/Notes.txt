@@ -1,0 +1,12 @@
+- r brief and proposals
+- isa ppt
+- design slide(s)
+
+
+- VT_Quantum = 19692
+- VT_Quantum = recruitment criteria?
+- VT_Ipsos = 17230
+
+- CB_Ipsos = 18000
+- CB_Quantum = 22000
+- CB_TNS = 18000
