@@ -40,6 +40,7 @@ https://lightburnsoftware.com/
 
 
 
+#define COOLANT_CONTROL
 
 
 

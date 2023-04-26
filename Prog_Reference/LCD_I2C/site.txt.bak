@@ -8,5 +8,6 @@ https://maxpromer.github.io/LCD-Character-Creator/
 
 
 node mcu
+
 library  --> https://www.electronicshub.org/esp8266-nodemcu-i2c-lcd/
 address check / Wire connection --> //https://roboindia.com/tutorials/i2c-address-scanner-nodemcu/ --- wire connection

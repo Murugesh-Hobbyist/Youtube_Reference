@@ -1,0 +1,27 @@
+
+
+
+
+
+
+
+
+
+setup
+https://esp32io.com/tutorials/esp32-software-installization
+
+
+procedure
+https://circuitdigest.com/microcontroller-projects/getting-started-with-esp32-with-arduino-ide
+
+
+
+need to hold boot button while uploading code
+
+stepper esp32
+
+https://microcontrollerslab.com/stepper-motor-a4988-driver-module-esp32/
+
+
+
+

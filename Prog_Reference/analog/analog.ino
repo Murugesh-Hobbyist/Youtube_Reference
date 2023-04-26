@@ -1,14 +1,19 @@
-const int buzz = 5 ;       //Connect button to D1
+int analogPin =9;
+long int sensorValue = 0;
 
 void setup() 
 {
-pinMode(buzz, OUTPUT);            //Configure LED as output
+  Serial.begin(9600);
+pinMode(LED_BUILTIN, OUTPUT);            //Configure LED as output
 }
 
 void loop() 
-{           //Read the button state
-    digitalWrite(buzz, HIGH);  //Turn ON LED
-    delay(1000);
-    digitalWrite(buzz, LOW);  //Turn LOW LED
-    delay(1000);
+{ 
+    sensorValue = analogRead(analogPin);
+    if (sensorValue == HIGH)
+    {digitalWrite(LED_BUILTIN, sensorValue);}; //Turn ON LED
+   // delay(1000);
+    if (sensorValue == LOW) 
+    {digitalWrite(LED_BUILTIN, sensorValue);};  //Turn LOW LED
+  //  delay(1000);
 }
