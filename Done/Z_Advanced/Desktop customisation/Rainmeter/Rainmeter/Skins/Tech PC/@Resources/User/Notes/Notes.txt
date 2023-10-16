@@ -1,0 +1,11 @@
+- Click here to edit your notes!
+
+- Middle-click any skin to refresh.
+
+- Double-click any skin to switch to the next variant.
+
+- Load the "Enigma\Options" skin to change your settings.
+
+<donotshow>
+
+- Any text that appears after the <donotshow> tag will not display in Enigma Notes.

@@ -17,7 +17,6 @@ Adafruit_SSD1306 display(OLED_RESET); //D4
 #error("Height incorrect, please fix Adafruit_SSD1306.h!");
 #endif
 
-#include <ESP8266WiFi.h>
 #include <FirebaseArduino.h>
 #define FIREBASE_HOST "batterydoc-3074c-default-rtdb.firebaseio.com"
 #define FIREBASE_AUTH "QZh6pMDYle9jG3YkLeZxVcrvuW5QoARLRPCmSVZ9"
