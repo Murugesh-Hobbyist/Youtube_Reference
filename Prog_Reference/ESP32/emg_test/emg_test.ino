@@ -8,5 +8,5 @@ Serial.begin(9600);
 void loop() {
 EMGVal = analogRead(EMGPin);
 Serial.println(EMGVal);
-delay(100);
+//delay(100);
 }
