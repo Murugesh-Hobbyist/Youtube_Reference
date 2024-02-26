@@ -1,6 +1,6 @@
 
-const int trigPin = 9; // analog
-const int echoPin = 10; // analog
+const int trigPin = 5; // analog
+const int echoPin = 4; // analog
 
 long duration;
 int distance;

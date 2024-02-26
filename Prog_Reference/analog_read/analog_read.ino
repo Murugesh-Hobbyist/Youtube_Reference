@@ -1,14 +1,15 @@
 void setup() 
 {
   Serial.begin(9600);
+
  // digitalWrite(4, HIGH);
 }
 
 void loop() 
 {
 {
-      int sensorValue = analogRead(A1);
-  //  int sensorValue = digitalRead(A0);
+    // int sensorValue = digitalRead(5);
+   int sensorValue = analogRead(36);
  // Serial.print("sensorValue ");
  // Serial.print(sensorValue);
  // Serial.print("   ");

@@ -1,0 +1,13 @@
+https://github.com/MarlinFirmware/Configurations/branches/stale
+
+https://github.com/MarlinFirmware/Marlin
+
+
+https://marlinfw.org/meta/download/
+
+https://www.diyengineers.com/2022/04/21/a4988-how-to-use-with-arduino-or-nodemcu-esp8266/
+
+https://marlinfw.org/docs/gcode/M140.html
+
+
+
