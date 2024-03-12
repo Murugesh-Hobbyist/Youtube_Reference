@@ -1,6 +1,7 @@
 void setup() 
 {
-  Serial.begin(9600);
+      Serial.begin(9600);
+  //Serial.begin(115200);
 
  // digitalWrite(4, HIGH);
 }
@@ -8,8 +9,8 @@ void setup()
 void loop() 
 {
 {
-    // int sensorValue = digitalRead(5);
-   int sensorValue = analogRead(36);
+     int sensorValue = digitalRead(7);
+  // int sensorValue = analogRead(9);
  // Serial.print("sensorValue ");
  // Serial.print(sensorValue);
  // Serial.print("   ");
