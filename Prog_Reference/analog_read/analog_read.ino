@@ -4,12 +4,14 @@ void setup()
   //Serial.begin(115200);
 
  // digitalWrite(4, HIGH);
+ 
+    pinMode(37, INPUT_PULLUP);
 }
 
 void loop() 
 {
 {
-     int sensorValue = digitalRead(7);
+     int sensorValue = digitalRead(37);
   // int sensorValue = analogRead(9);
  // Serial.print("sensorValue ");
  // Serial.print(sensorValue);
