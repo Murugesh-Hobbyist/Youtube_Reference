@@ -12,7 +12,7 @@ axes:
   shared_stepper_disable_pin: gpio.13:high
 
   x:
-    steps_per_mm: 48.56
+    steps_per_mm: 48.4
     max_rate_mm_per_min: 30000
     acceleration_mm_per_sec2: 1200
     max_travel_mm: 1100
